@@ -1,7 +1,7 @@
 {
   "name": "aori-d3-functions",
-  "version": "1.0.0",
-  "main": "dist/d3.js",
+  "version": "1.0.1",
+  "main": "dist/d3-functions.js",
   "author": "Dmitriy Nikitin <dnikitin@aori.com>",
   "license": "MIT",
   "dependencies": {
